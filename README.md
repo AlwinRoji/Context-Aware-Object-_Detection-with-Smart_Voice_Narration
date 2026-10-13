@@ -1,0 +1,2 @@
+# Context-Aware-Object-_Detection-with-Smart_Voice_Narration
+The project presents an intelligent assistive system combining real-time object detection, context-aware analysis, and smart voice narration. Using YOLO-based models, it detects objects, interprets context, and delivers audio feedback via TTS. It enhances accessibility, accuracy, and user understanding in real-world environments effectively.
